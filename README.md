@@ -5,7 +5,8 @@ Compatible with UFO 50 v1.7.6.
 ## Codes
 |Code|Purpose|
 |---|---|
-|**VAMP-IRIC**| Easier Mode of Mortol 2. Lives are regenerated upon killing an enemy.|
+|**VAMP-IRIC**| Different Mode of Mortol 2. Lives are regenerated upon killing an enemy. 30 lives max.|
+|**PHIL-MODE**| No Lose Mode of Mortol 2. Lives count up. 
 
 ## How to Install the Mod
 
